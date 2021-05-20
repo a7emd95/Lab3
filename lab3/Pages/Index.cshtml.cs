@@ -19,7 +19,7 @@ namespace lab3.Pages
 
         public void OnGet()
         {
-
+          consle.log("HI")
         }
     }
 }
